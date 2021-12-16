@@ -1,8 +1,10 @@
 # Feature Selection Project - Artificial Intelligence
-### Implementation of the Nearest Neighbor classifier to enable Forward Selection and Backward Elimination search algorithms
-
+## Introduction
+Implementation of the Nearest Neighbor classifier to enable Forward Selection and Backward Elimination search algorithms.
 
 In this project, the nearest neighbor classifier was implemented, and then using it inside a “wrapper” which does various kinds of searches such as the Forward Selection and Backward Elimination.
+
+## Analysis
 
 In Figure 1 we see the result of running forward selection on small.txt, which was the small file pre-generated.
 ![Small Forward Selection](SmallForwardSelection.png)
